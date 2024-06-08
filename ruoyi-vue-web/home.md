@@ -1,0 +1,25 @@
+<!-- <img src="https://foruda.gitee.com/images/1679673773341074847/178e8451_1766278.png" width="50%" height="50%">
+<div style="height: 10px; clear: both;"></div> -->
+
+- - -
+# 系统接入报价
+<br>
+
+> 1.用于保险产品接入费用计算，分为案例演算和评估核算模板<br>
+
+
+
+> 1.1案例演算
+提供计算方案费用。<br>
+
+
+![输入图片说明](https://haobaohangpt.com/haibao/web3/1.png "屏幕截图")
+![输入图片说明](https://haobaohangpt.com/haibao/web3/2.png "屏幕截图")
+![输入图片说明](https://haobaohangpt.com/haibao/web3/3.png "屏幕截图")
+
+> 1.2.评估核算模板
+提供费用核算模板。<br>
+
+
+
+![输入图片说明](https://haobaohangpt.com/haibao/web3/4.png "屏幕截图")
